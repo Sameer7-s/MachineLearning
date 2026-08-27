@@ -1,0 +1,101 @@
+employee_id,name,department,city,age,salary,experience,performance_score,projects_completed,joining_date
+184,Swati Kapoor,Data Science,Kolkata,38.0,70719,5,5,6,2021-07-02
+154,Kavya Malhotra,engineering,Mumbai,,77058,1,8,8,2024-02-05
+171,Manish Desai,Data Science,Hyderabad,23.0,69911,0,6,18,2019-04-24
+146,Neha Das,Engineering,Pune,28.0,69993,3,8,1,2022-12-13
+145,Isha Nair,Data Science,,32.0,88216,8,8,14,2019-11-25
+140,Rahul Gupta,Sales,Hyderabad,23.0,52404,0,9,13,2018-12-27
+123,Sneha Iyer,HR,Hyderabad,33.0,59895,4,4,18,2024-02-21
+181,Karan Rao,Marketing,,22.0,50733,1,6,6,2020-04-05
+111,Kavya Singh,Engineering,Delhi,23.0,,1,5,10,2021-09-14
+101,Ananya Malhotra,engineering,,24.0,68591,2,8,0,2023-10-21
+119,Ritu Desai,Marketing,Pune,22.0,55321,0,6,18,2020-02-18
+131,Priya Malhotra, Marketing ,Hyderabad,25.0,55295,1,7,12,2022-02-13
+174,Divya Chatterjee,Finance,Kolkata,24.0,58374,1,3,12,2018-09-21
+134,Vivek Kulkarni,Finance,Kolkata,24.0,59422,3,6,12,2021-11-24
+191,Neha Malhotra,Marketing,Mumbai,29.0,64944,2,10,18,2023-10-05
+105,Vivek Pillai,Engineering,Pune,39.0,,9,4,5,2024-06-05
+177,Vivek Malhotra, Finance ,Bangalore,,,3,4,12,2021-09-12
+178,Vikram Kapoor,Sales,Chennai,29.0,57858,3,7,1,2020-06-26
+113,Ritu Nair,Finance,,41.0,74778,10,7,5,2018-02-13
+132,Swati Malhotra,Engineering,Chennai,33.0,77222,5,7,15,2018-10-09
+156,Aditya Kapoor,Data Science,Kolkata,26.0,69765,0,2,4,2020-04-12
+189,Anjali Shah,Marketing,Delhi,33.0,56321,6,7,14,2022-08-14
+127,Suresh Verma,Data Science,Bangalore,27.0,"72,862",2,6,10,2023-02-21
+143,Neha Rao,Sales,Hyderabad,37.0,,11,6,11,2023-05-15
+170,Rahul Nair,Data Science,Kolkata,30.0,76425,5,2,4,2021-06-25
+116,Rohan Verma,Engineering,Chennai,23.0,62693,0,4,8,2018-08-17
+141,Manish Kulkarni,HR,Chennai,27.0,"45,835",3,8,13,2022-07-21
+162,Suresh Chatterjee, HR ,Hyderabad,32.0,59273,5,6,11,2020-09-05
+110,Arjun Verma,Marketing,Pune,29.0,62227,4,7,8,2022-04-05
+173,Riya Shah,Marketing,Bangalore,27.0,"62,165",5,5,6,2021-10-07
+112,Aditya Reddy,Finance,,31.0,58811,2,3,3,2020-05-26
+148,Kavya Nair,Engineering,Chennai,,"76,320",3,7,11,2024-03-07
+186,Rohan Kapoor,,Pune,36.0,65152,8,7,4,2020-02-15
+129,Ashok Gupta,Marketing,Hyderabad,22.0,49693,0,4,7,2018-08-27
+194,Pooja Menon,Engineering,Chennai,,76281,7,4,9,2022-07-28
+106,Vivek Singh,HR,Delhi,27.0,56886,3,6,11,2020-08-04
+167,Meera Malhotra,HR,Hyderabad,31.0,48822,4,5,4,2022-06-24
+166,Meera Nayak,HR,Hyderabad,33.0,56940,4,7,13,2023-04-14
+136,Sanjay Mehta,Sales,Hyderabad,30.0,52573,5,7,8,2021-02-12
+117,Pooja Malhotra,engineering,Kolkata,24.0,84255,1,8,19,2021-12-05
+150,Vivek Chatterjee,HR,Kolkata,22.0,51391,0,7,8,2019-11-20
+135,Meera Desai,Marketing,Kolkata,28.0,59186,4,6,8,2023-07-10
+108,Ananya Rao,Engineering,Pune,38.0,78545,6,5,10,2022-02-16
+196,Sanjay Pillai,Marketing,Bangalore,,60503,0,8,15,2022-11-08
+128,Rohan Chatterjee,Sales,Mumbai,26.0,52862,1,3,7,2022-08-04
+120,Isha Gupta,Marketing,Mumbai,26.0,,6,5,14,2018-03-27
+182,Pooja Reddy,Sales,Delhi,34.0,63700,7,6,14,2019-12-28
+126,Neha Desai,HR,Delhi,22.0,"53,011",0,5,8,2023-07-19
+163,Rahul Chatterjee,Sales,Kolkata,25.0,60015,0,8,9,2023-05-10
+114,Isha Das,FINANCE,Chennai,35.0,71889,8,5,2,2019-06-21
+125,Sneha Bose,Marketing,Mumbai,32.0,56627,7,2,9,2023-07-12
+104,Ritu Iyer,Marketing,Bangalore,34.0,63574,8,7,20,2021-05-10
+118,Rajesh Nair,Finance,Hyderabad,26.0,67464,1,5,9,2019-01-26
+139,Rahul Malhotra,Marketing,Hyderabad,23.0,60203,2,6,15,2022-09-17
+109,Rohan Kulkarni,Data Science,Delhi,28.0,76267,5,6,3,2023-01-24
+179,Arjun Das,Finance,,43.0,,10,7,11,2024-08-25
+107,Karan Mehta,HR,Delhi,34.0,55119,8,3,8,2021-07-02
+165,Isha Das,Marketing,Pune,40.0,57895,6,5,1,2023-08-16
+137,Ritu Bose,Finance,Bangalore,38.0,71062,8,6,4,2023-12-19
+190,Swati Bose,Data Science,Mumbai,22.0,78465,0,8,18,2022-11-22
+157,Ananya Rao,Engineering,Mumbai,25.0,,2,5,8,2022-04-07
+164,Sneha Gupta,,Delhi,42.0,63209,11,3,8,2021-08-07
+155,Sanjay Das,,Bangalore,45.0,74505,17,6,10,2022-06-22
+144,Arjun Nayak,Engineering,Kolkata,38.0,75226,7,6,17,2019-12-27
+151,Sneha Verma,Finance,Delhi,,66422,5,6,5,2023-09-02
+168,Sanjay Kulkarni,Engineering,Delhi,34.0,80358,7,5,14,2020-04-01
+147,Tanvi Verma,Engineering,Bangalore,35.0,77217,8,3,0,2022-04-22
+169,Swati Chatterjee,HR,Pune,33.0,49801,3,6,11,2021-08-20
+162,Suresh Chatterjee, HR ,Hyderabad,32.0,59273,5,7,11,2020-09-05
+134,Vivek Kulkarni,Finance,Kolkata,24.0,59422,3,6,13,2021-11-24
+180,Ashok Kulkarni,Finance,Kolkata,31.0,58777,3,5,9,2024-07-10
+142,Shreya Das,HR,Pune,22.0,56504,0,7,2,2021-06-19
+159,Rohan Menon,HR,Pune,26.0,56141,3,4,13,2023-01-03
+149,Sanjay Desai,SALES,Hyderabad,37.0,"62,730",8,7,8,2019-01-23
+158,Tanvi Malhotra,,Mumbai,32.0,"88,366",11,5,19,2021-02-26
+158,Tanvi Malhotra,,Mumbai,32.0,"88,366",11,6,17,2021-02-26
+176,Shreya Menon,Finance,,41.0,80597,9,2,18,2024-11-09
+133,Riya Verma,HR,Kolkata,26.0,59693,3,6,20,2024-05-08
+195,Pooja Nair,Finance,,33.0,69396,6,6,4,2023-01-13
+160,Shreya Singh,Finance,Pune,38.0,62020,5,5,0,2019-05-11
+164,Sneha Gupta,,Delhi,42.0,63209,11,4,7,2021-08-07
+185,Vikram Desai,,Pune,39.0,68197,9,4,9,2024-09-13
+138,Rahul Gupta,Finance,Hyderabad,35.0,"75,614",11,7,14,2020-10-18
+130,Arjun Nair,Finance,Pune,22.0,60514,0,9,24,2019-06-17
+102,Rahul Menon,Engineering,Hyderabad,38.0,84870,11,6,15,2021-06-07
+153,Pooja Das,Finance,Mumbai,27.0,64112,1,4,6,2019-08-25
+122,Ashok Shah,HR,Hyderabad,31.0,55756,5,8,11,2024-05-11
+103,Ananya Nayak,Sales,Delhi,38.0,68490,9,6,6,2021-11-19
+124,Deepak Verma,Data Science,Hyderabad,41.0,86380,9,7,8,2024-06-05
+188,Sanjay Verma,HR,Bangalore,33.0,59591,8,4,4,2019-03-05
+192,Divya Verma,HR,Delhi,40.0,66363,12,7,13,2022-09-10
+175,Aman Nayak,,,27.0,69076,5,5,10,2019-09-15
+187,Aditya Bose,Engineering,Bangalore,36.0,81112,7,4,9,2022-03-26
+183,Deepak Nayak,Marketing,Hyderabad,28.0,62393,2,5,13,2020-08-09
+121,Ashok Shah,Data Science,Pune,31.0,75498,4,7,7,2024-12-05
+161,Nikhil Nair,MARKETING,Chennai,22.0,55740,0,5,22,2020-04-22
+172,Neha Desai,HR,Chennai,22.0,52250,0,5,7,2020-11-14
+115,Neha Reddy,Marketing,Chennai,43.0,,12,4,10,2019-06-06
+193,Priya Nayak,HR,,23.0,56821,3,9,16,2019-08-07
+152,Kavya Joshi,Marketing,Delhi,44.0,69499,10,7,4,2022-03-25
