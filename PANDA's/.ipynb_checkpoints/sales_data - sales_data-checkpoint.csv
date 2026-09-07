@@ -1,0 +1,251 @@
+Order_ID,Date,Region,Category,Product,Quantity,Unit_Price,Sales,Cost,Profit,Customer_Type,Payment_Method
+1,2025-05-06,East,Electronics,Laptop,8,740.71,5925.68,3441.33,2484.35,Individual,Bank Transfer
+2,2025-04-22,North,Electronics,Laptop,8,2551.51,20412.08,11389.14,9022.94,Individual,Bank Transfer
+3,2025-01-04,East,Furniture,Table,6,3505.79,21034.74,13716.23,7318.51,Individual,Card
+4,2025-07-14,North,Clothing,T-Shirt,4,1826.95,7307.8,4773.36,2534.44,Business,Cash
+5,2025-07-13,North,Grocery,Cooking Oil,3,2782.6,8347.8,6668.4,1679.4,Business,Card
+6,2025-05-29,South,Electronics,Laptop,3,4283.82,12851.46,10408.98,2442.48,Business,UPI
+7,2025-07-09,South,Grocery,Tea,12,1087.06,13044.72,8219.39,4825.33,Individual,Card
+8,2025-08-25,South,Stationery,Pen,13,1386.24,18021.12,14914.59,3106.53,Individual,UPI
+9,2025-06-11,North,Electronics,Smartphone,13,1375.32,17879.16,10965.2,6913.96,Business,Card
+10,2025-03-15,West,Grocery,Sugar,9,741.17,6670.53,5159.63,1510.9,Business,Bank Transfer
+11,2025-04-23,East,Stationery,File,5,2572.16,12860.8,7424.19,5436.61,Individual,Cash
+12,2025-11-02,West,Furniture,Desk,3,1954.6,5863.8,4273.34,1590.46,Business,UPI
+13,2025-12-16,North,Stationery,Notebook,18,3766.85,67803.3,52925.87,14877.43,Business,Cash
+14,2025-08-21,South,Clothing,Shoes,1,4771.39,4771.39,3877.98,893.41,Business,Card
+15,2025-11-24,East,Stationery,Notebook,17,3064.4,52094.8,31040.78,21054.02,Individual,Cash
+16,2025-01-10,West,Stationery,Marker,4,4649.04,18596.16,15130.14,3466.02,Business,Card
+17,2025-02-13,North,Electronics,Smartphone,16,4089.32,65429.12,55182.62,10246.5,Individual,Card
+18,2025-05-16,South,Grocery,Cooking Oil,17,4368.54,74265.18,50273.17,23992.01,Individual,Card
+19,2025-08-13,East,Clothing,Shoes,17,2284.86,38842.62,24252.23,14590.39,Individual,UPI
+20,2025-10-29,South,Electronics,Monitor,8,85.59,684.72,522,162.72,Individual,Card
+21,2025-02-06,East,Electronics,Laptop,17,1228.12,20878.04,15673.01,5205.03,Individual,Card
+22,2025-05-05,West,Stationery,Stapler,16,4047.11,64753.76,39313.5,25440.26,Individual,Bank Transfer
+23,2025-08-28,West,Clothing,Shoes,2,3383.15,6766.3,5719.21,1047.09,Individual,Cash
+24,2025-05-08,North,Grocery,Tea,7,991.53,6940.71,4751.5,2189.21,Business,Card
+25,2025-02-08,South,Clothing,Shoes,15,4049.71,60745.65,49008.99,11736.66,Individual,Cash
+26,2025-05-02,North,Stationery,Notebook,6,2061.75,12370.5,8590.17,3780.33,Business,Cash
+27,2025-07-19,North,Furniture,Table,9,4636.26,41726.34,32777.66,8948.68,Business,Bank Transfer
+28,2025-04-08,South,Stationery,File,10,1127.62,11276.2,6399.75,4876.45,Individual,UPI
+29,2025-09-15,West,Electronics,Laptop,17,829.29,14097.93,11817.36,2280.57,Individual,Card
+30,2025-12-12,North,Electronics,Monitor,8,2048.69,16389.52,13643.93,2745.59,Individual,Cash
+31,2025-12-03,West,Stationery,Notebook,19,2847.87,54109.53,34895.83,19213.7,Business,Card
+32,2025-07-22,East,Clothing,Jeans,5,3374.87,16874.35,10799.57,6074.78,Business,Cash
+33,2025-02-07,North,Electronics,Keyboard,18,1105.11,19891.98,12523.2,7368.78,Business,Cash
+34,2025-03-22,East,Furniture,Bookshelf,15,4177.04,62655.6,47684.79,14970.81,Individual,UPI
+35,2025-03-01,East,Electronics,Smartphone,4,3724.96,14899.84,8889.76,6010.08,Business,Card
+36,2025-09-16,East,Clothing,Jeans,16,1293.05,20688.8,17015.46,3673.34,Individual,Cash
+37,2025-01-02,North,Grocery,Tea,11,3867.04,42537.44,31525.94,11011.5,Business,Card
+38,2025-10-15,West,Grocery,Cooking Oil,1,603.78,603.78,503.26,100.52,Individual,Cash
+39,2025-08-09,South,Clothing,Shirt,5,257.05,1285.25,847.49,437.76,Individual,UPI
+40,2025-07-01,North,Furniture,Desk,18,4426.47,79676.46,53535.67,26140.79,Individual,Card
+41,2025-01-13,West,Furniture,Desk,6,3695.99,22175.94,14406.72,7769.22,Business,Card
+42,2025-07-15,North,Clothing,Jeans,2,4300.04,8600.08,5303.93,3296.15,Business,UPI
+43,2025-01-13,South,Clothing,Jeans,7,2022.41,14156.87,8969.52,5187.35,Individual,UPI
+44,2025-12-14,West,Clothing,Shirt,18,1689.19,30405.42,16974.74,13430.68,Business,Card
+45,2025-02-25,North,Stationery,Marker,20,2201.09,44021.8,33833.55,10188.25,Business,Bank Transfer
+46,2025-07-17,North,Stationery,Stapler,19,990.89,18826.91,10605.5,8221.41,Business,Cash
+47,2025-07-06,South,Stationery,Stapler,14,396.37,5549.18,4157.84,1391.34,Business,UPI
+48,2025-12-08,East,Electronics,Headphones,14,1664.61,23304.54,17691.93,5612.61,Individual,Card
+49,2025-11-12,South,Grocery,Sugar,19,1539.7,29254.3,20898.72,8355.58,Individual,UPI
+50,2025-10-24,West,Clothing,Jeans,20,3290.79,65815.8,45379.76,20436.04,Business,Card
+51,2025-12-04,South,Stationery,File,3,1454.74,4364.22,3269.48,1094.74,Business,Cash
+52,2025-04-12,South,Furniture,Bookshelf,5,170.91,854.55,532.77,321.78,Business,Cash
+53,2025-12-23,South,Grocery,Sugar,13,2497.17,32463.21,20230.92,12232.29,Individual,Cash
+54,2025-12-23,South,Grocery,Coffee,17,2349.52,39941.84,28647.16,11294.68,Individual,Bank Transfer
+55,2025-08-15,East,Furniture,Table,20,4084.28,81685.6,66786.64,14898.96,Business,Bank Transfer
+56,2025-05-13,West,Furniture,Table,8,4207.32,33658.56,21312.38,12346.18,Business,Card
+57,2025-05-27,North,Clothing,Shoes,8,1394.99,11159.92,7208.34,3951.58,Individual,Card
+58,2025-12-22,West,Furniture,Desk,5,3546.77,17733.85,10095.32,7638.53,Business,UPI
+59,2025-02-01,West,Stationery,File,7,4172.81,29209.67,19478.27,9731.4,Individual,Bank Transfer
+60,2025-06-02,East,Grocery,Rice,13,4274.57,55569.41,46457.64,9111.77,Business,Card
+61,2025-08-12,East,Grocery,Coffee,16,193.67,3098.72,2016.77,1081.95,Business,Card
+62,2025-07-21,North,Grocery,Coffee,19,2843.74,54031.06,30156.39,23874.67,Business,Card
+63,2025-05-14,North,Grocery,Coffee,13,1670.4,21715.2,14905.53,6809.67,Business,Bank Transfer
+64,2025-02-11,East,Clothing,Shoes,16,145.95,2335.2,1662.26,672.94,Business,Card
+65,2025-05-07,North,Electronics,Laptop,7,4204.18,29429.26,21671.73,7757.53,Individual,Card
+66,2025-08-27,South,Grocery,Rice,9,3846.15,34615.35,20780.87,13834.48,Individual,Card
+67,2025-06-09,North,Clothing,T-Shirt,19,3402.87,64654.53,54145.06,10509.47,Business,Card
+68,2025-02-22,South,Electronics,Monitor,10,4258.95,42589.5,31095.59,11493.91,Individual,Cash
+69,2025-12-05,West,Clothing,Shirt,12,391.34,4696.08,3495.12,1200.96,Individual,Bank Transfer
+70,2025-07-05,West,Grocery,Rice,15,3551.18,53267.7,36256.45,17011.25,Business,Bank Transfer
+71,2025-06-15,East,Grocery,Sugar,8,4162.12,33296.96,19179.01,14117.95,Business,Card
+72,2025-06-22,West,Grocery,Cooking Oil,1,2496.82,2496.82,1616.7,880.12,Business,Card
+73,2025-05-24,East,Clothing,Jacket,20,3520.86,70417.2,44565.68,25851.52,Individual,Card
+74,2025-09-08,West,Electronics,Smartphone,18,3802.92,68452.56,51831.1,16621.46,Business,Bank Transfer
+75,2025-04-24,East,Electronics,Laptop,13,3474.35,45166.55,28990.68,16175.87,Business,Bank Transfer
+76,2025-08-06,East,Stationery,Stapler,18,1687.42,30373.56,23109.92,7263.64,Business,UPI
+77,2025-04-09,North,Clothing,Jeans,11,641.8,7059.8,5017.82,2041.98,Individual,Card
+78,2025-10-29,East,Furniture,Table,17,3004.11,51069.87,43110.79,7959.08,Individual,UPI
+79,2025-06-04,South,Furniture,Bookshelf,1,3554.69,3554.69,2090.07,1464.62,Individual,Cash
+80,2025-11-23,South,Stationery,Marker,16,557.81,8924.96,4941.57,3983.39,Business,Bank Transfer
+81,2025-04-05,East,Grocery,Sugar,2,1299.77,2599.54,2101.77,497.77,Individual,Cash
+82,2025-10-23,North,Grocery,Sugar,2,801.05,1602.1,1271.01,331.09,Business,Cash
+83,2025-11-07,West,Furniture,Office Chair,20,3964.17,79283.4,48973.84,30309.56,Business,Bank Transfer
+84,2025-06-06,West,Grocery,Tea,19,3124.09,59357.71,43502.63,15855.08,Individual,Card
+85,2025-03-22,North,Furniture,Bookshelf,8,910.38,7283.04,4169.68,3113.36,Individual,Bank Transfer
+86,2025-05-30,West,Grocery,Cooking Oil,2,1195.81,2391.62,1822.62,569,Business,Cash
+87,2025-08-06,South,Furniture,Bookshelf,4,2745.58,10982.32,8174.04,2808.28,Business,Card
+88,2025-06-07,South,Electronics,Laptop,20,3757.34,75146.8,54162.97,20983.83,Business,Bank Transfer
+89,2025-12-25,East,Electronics,Keyboard,13,4716.25,61311.25,42926.56,18384.69,Business,Bank Transfer
+90,2025-08-10,North,Electronics,Monitor,11,3038.38,33422.18,18641.54,14780.64,Individual,Cash
+91,2025-03-31,North,Clothing,Shirt,16,2618.87,41901.92,28605.13,13296.79,Business,Card
+92,2025-02-16,West,Stationery,File,16,1772.41,28358.56,18432.85,9925.71,Individual,Card
+93,2025-05-28,West,Clothing,Shoes,13,4077.15,53002.95,37898.65,15104.3,Business,Cash
+94,2025-03-01,East,Clothing,Jacket,13,4331.31,56307.03,44903.63,11403.4,Individual,Bank Transfer
+95,2025-09-23,South,Grocery,Rice,12,3132.04,37584.48,26292.15,11292.33,Business,Cash
+96,2025-05-28,South,Furniture,Bookshelf,15,4410.19,66152.85,46003.59,20149.26,Individual,Card
+97,2025-10-10,North,Furniture,Bookshelf,14,511.39,7159.46,6068.91,1090.55,Individual,Bank Transfer
+98,2025-05-30,West,Electronics,Smartphone,17,3541.79,60210.43,40620.79,19589.64,Business,Bank Transfer
+99,2025-07-16,South,Furniture,Table,7,4613.25,32292.75,22684.76,9607.99,Individual,Cash
+100,2025-09-17,East,Clothing,Shoes,9,4111.72,37005.48,23492.99,13512.49,Business,Bank Transfer
+101,2025-06-26,West,Furniture,Table,11,2781.99,30601.89,21820.04,8781.85,Business,UPI
+102,2025-04-30,West,Furniture,Desk,14,266.05,3724.7,2880.73,843.97,Business,Bank Transfer
+103,2025-03-06,North,Furniture,Table,17,4828.5,82084.5,53321.96,28762.54,Individual,Bank Transfer
+104,2025-01-08,West,Electronics,Monitor,5,2079.39,10396.95,7760.64,2636.31,Individual,Cash
+105,2025-11-16,East,Grocery,Tea,13,3266.69,42466.97,34208.4,8258.57,Business,UPI
+106,2025-11-13,North,Grocery,Cooking Oil,3,1212.11,3636.33,2746.59,889.74,Business,Card
+107,2025-11-21,North,Electronics,Keyboard,4,2246.21,8984.84,6812.31,2172.53,Individual,Cash
+108,2025-07-03,East,Clothing,T-Shirt,12,2181.9,26182.8,16318.67,9864.13,Business,Card
+109,2025-11-09,North,Furniture,Desk,13,3117.57,40528.41,25218.76,15309.65,Individual,Card
+110,2025-05-11,West,Grocery,Tea,1,4499.6,4499.6,3102.82,1396.78,Business,Card
+111,2025-10-28,East,Electronics,Keyboard,10,3212.75,32127.5,21759.72,10367.78,Business,Bank Transfer
+112,2025-09-05,West,Clothing,Jeans,4,1224.17,4896.68,3533.33,1363.35,Business,UPI
+113,2025-01-05,East,Electronics,Keyboard,19,4332.08,82309.52,64488.97,17820.55,Individual,Bank Transfer
+114,2025-04-23,East,Clothing,Jeans,7,3123.41,21863.87,16470.69,5393.18,Individual,Cash
+115,2025-01-18,West,Electronics,Headphones,19,1856.06,35265.14,20786.1,14479.04,Business,UPI
+116,2025-03-09,South,Grocery,Coffee,18,4388.48,78992.64,52115.97,26876.67,Business,Card
+117,2025-06-23,East,Clothing,Shoes,4,2368.24,9472.96,5424.12,4048.84,Individual,Bank Transfer
+118,2025-07-22,North,Stationery,Marker,1,1359.07,1359.07,797.88,561.19,Business,UPI
+119,2025-02-25,East,Stationery,File,8,2383.81,19070.48,14033.28,5037.2,Business,Card
+120,2025-11-29,East,Electronics,Keyboard,14,627.55,8785.7,4951.66,3834.04,Individual,UPI
+121,2025-05-01,North,Grocery,Rice,18,721.54,12987.72,8910.79,4076.93,Business,Card
+122,2025-11-12,West,Grocery,Rice,14,4698.31,65776.34,41697.07,24079.27,Business,Card
+123,2025-07-05,South,Grocery,Sugar,4,4905.59,19622.36,12954.69,6667.67,Business,Cash
+124,2025-03-04,South,Grocery,Tea,15,503.78,7556.7,4637.03,2919.67,Individual,Cash
+125,2025-10-17,South,Clothing,Jeans,7,389.62,2727.34,2126.09,601.25,Individual,Card
+126,2025-11-02,South,Furniture,Bookshelf,1,1422.51,1422.51,1202.32,220.19,Individual,UPI
+127,2025-03-09,North,Furniture,Office Chair,1,1823.3,1823.3,1434.08,389.22,Business,Cash
+128,2025-03-06,North,Furniture,Bookshelf,14,2654.12,37157.68,28748.88,8408.8,Business,Bank Transfer
+129,2025-08-20,North,Clothing,Shirt,17,1146.67,19493.39,14318.52,5174.87,Business,Bank Transfer
+130,2025-07-25,West,Electronics,Laptop,14,3446.18,48246.52,33631.72,14614.8,Business,Cash
+131,2025-02-03,South,Electronics,Headphones,5,1411.33,7056.65,5221.38,1835.27,Business,Bank Transfer
+132,2025-08-21,East,Stationery,Stapler,17,3046.86,51796.62,30029.27,21767.35,Individual,Card
+133,2025-07-31,South,Grocery,Sugar,11,4145.73,45603.03,30536.66,15066.37,Individual,UPI
+134,2025-07-11,East,Grocery,Tea,5,3449.76,17248.8,11941.01,5307.79,Individual,Cash
+135,2025-07-10,North,Electronics,Keyboard,5,2804.04,14020.2,10177.82,3842.38,Business,Cash
+136,2025-01-27,West,Grocery,Tea,10,3022.03,30220.3,19809.22,10411.08,Individual,Card
+137,2025-06-29,North,Grocery,Coffee,18,1869.43,33649.74,26205.8,7443.94,Individual,Bank Transfer
+138,2025-11-08,North,Stationery,Stapler,9,193.32,1739.88,1099.57,640.31,Business,UPI
+139,2025-03-15,South,Clothing,T-Shirt,19,3303.86,62773.34,35835.77,26937.57,Individual,Cash
+140,2025-08-03,West,Stationery,Pen,15,1737.44,26061.6,17227.13,8834.47,Business,Cash
+141,2025-11-13,South,Electronics,Smartphone,2,3386.15,6772.3,4277.59,2494.71,Business,Bank Transfer
+142,2025-05-20,West,Stationery,File,7,3786.97,26508.79,15484.98,11023.81,Business,Cash
+143,2025-09-27,West,Clothing,Shirt,10,274.82,2748.2,1837.39,910.81,Individual,Cash
+144,2025-03-12,South,Furniture,Bookshelf,9,1482.76,13344.84,7820.01,5524.83,Business,Bank Transfer
+145,2025-09-30,West,Furniture,Desk,8,2526.3,20210.4,16168.45,4041.95,Business,Cash
+146,2025-01-10,West,Grocery,Rice,15,4609.75,69146.25,55913.94,13232.31,Business,Bank Transfer
+147,2025-07-27,North,Grocery,Tea,1,4832.69,4832.69,2907.16,1925.53,Business,UPI
+148,2025-05-05,North,Electronics,Keyboard,14,2964.91,41508.74,29354.51,12154.23,Business,UPI
+149,2025-03-28,East,Clothing,Jeans,3,2576.89,7730.67,4516.32,3214.35,Individual,UPI
+150,2025-02-22,South,Clothing,Jeans,5,1317.04,6585.2,3964.62,2620.58,Individual,Cash
+151,2025-10-16,West,Furniture,Table,19,2272.08,43169.52,35711.82,7457.7,Business,UPI
+152,2025-08-29,North,Furniture,Table,15,3175.36,47630.4,37575.57,10054.83,Individual,UPI
+153,2025-08-25,East,Stationery,Notebook,15,236.16,3542.4,2340.18,1202.22,Business,Cash
+154,2025-08-25,West,Electronics,Monitor,19,2793.87,53083.53,41805.69,11277.84,Individual,Bank Transfer
+155,2025-11-06,East,Stationery,Pen,16,2531.77,40508.32,33918.29,6590.03,Business,Cash
+156,2025-01-21,South,Clothing,T-Shirt,8,3552.73,28421.84,24081.71,4340.13,Individual,UPI
+157,2025-07-29,West,Clothing,Jacket,11,3410.54,37515.94,21223.13,16292.81,Business,Cash
+158,2025-05-26,West,Clothing,T-Shirt,9,3632.48,32692.32,24420.16,8272.16,Individual,UPI
+159,2025-06-29,South,Electronics,Monitor,10,4840.1,48401,36762.69,11638.31,Business,Card
+160,2025-10-14,East,Stationery,Notebook,13,3235.29,42058.77,27276.92,14781.85,Individual,Cash
+161,2025-01-10,East,Grocery,Cooking Oil,12,1578.89,18946.68,15827.12,3119.56,Business,Bank Transfer
+162,2025-03-21,South,Furniture,Desk,3,1514.17,4542.51,3572.39,970.12,Individual,UPI
+163,2025-03-20,West,Stationery,Pen,6,945.19,5671.14,4297.89,1373.25,Individual,Bank Transfer
+164,2025-12-13,East,Electronics,Keyboard,8,4849.46,38795.68,28444.16,10351.52,Business,Card
+165,2025-08-29,East,Stationery,Pen,7,1870.81,13095.67,10923.61,2172.06,Business,Bank Transfer
+166,2025-03-24,West,Clothing,Shoes,7,4016.23,28113.61,16629.75,11483.86,Business,Cash
+167,2025-12-31,North,Grocery,Tea,17,4263.27,72475.59,46059.61,26415.98,Individual,UPI
+168,2025-08-12,South,Grocery,Cooking Oil,3,4734.75,14204.25,8758.5,5445.75,Business,UPI
+169,2025-07-22,North,Electronics,Keyboard,17,1901.11,32318.87,21519.51,10799.36,Individual,UPI
+170,2025-02-20,East,Furniture,Office Chair,11,3967.33,43640.63,25803.83,17836.8,Business,Bank Transfer
+171,2025-11-12,West,Furniture,Table,1,4533.99,4533.99,2519.54,2014.45,Individual,Card
+172,2025-02-26,West,Stationery,Stapler,10,1226.32,12263.2,7193.04,5070.16,Individual,Bank Transfer
+173,2025-02-26,North,Stationery,File,16,3003.86,48061.76,26670.94,21390.82,Individual,Card
+174,2025-11-11,North,Clothing,Shoes,12,1240.79,14889.48,10049.96,4839.52,Individual,UPI
+175,2025-07-19,North,Electronics,Monitor,16,265.5,4248,2829.44,1418.56,Business,UPI
+176,2025-06-26,North,Electronics,Headphones,8,3678.06,29424.48,21729.3,7695.18,Business,Card
+177,2025-11-26,East,Electronics,Headphones,6,4160.4,24962.4,18856.72,6105.68,Business,Card
+178,2025-01-19,West,Furniture,Office Chair,10,1047.88,10478.8,8250.3,2228.5,Individual,UPI
+179,2025-10-06,West,Clothing,Shirt,16,1303.9,20862.4,16188.96,4673.44,Individual,UPI
+180,2025-05-20,East,Clothing,T-Shirt,4,4006.74,16026.96,10915.73,5111.23,Business,Bank Transfer
+181,2025-09-12,South,Grocery,Tea,16,1868.37,29893.92,23591.9,6302.02,Business,Cash
+182,2025-11-05,West,Grocery,Rice,6,2750.1,16500.6,10665.38,5835.22,Individual,UPI
+183,2025-11-05,West,Clothing,Jacket,14,874.89,12248.46,8367.81,3880.65,Business,Cash
+184,2025-05-21,West,Clothing,Shirt,2,421.45,842.9,624.8,218.1,Business,Card
+185,2025-01-18,West,Electronics,Smartphone,5,382.81,1914.05,1499.76,414.29,Business,UPI
+186,2025-11-06,North,Grocery,Cooking Oil,5,3411.36,17056.8,14236.41,2820.39,Business,Bank Transfer
+187,2025-09-29,South,Electronics,Monitor,12,2020.27,24243.24,18058.02,6185.22,Individual,Cash
+188,2025-09-23,West,Electronics,Smartphone,13,4572.04,59436.52,34789.88,24646.64,Business,Bank Transfer
+189,2025-12-22,East,Furniture,Cabinet,16,1040.88,16654.08,9837.87,6816.21,Individual,Bank Transfer
+190,2025-12-16,North,Furniture,Table,11,3355.81,36913.91,28160.22,8753.69,Business,UPI
+191,2025-09-18,East,Furniture,Desk,8,650.74,5205.92,3177.14,2028.78,Individual,Card
+192,2025-10-11,East,Grocery,Rice,19,1876.11,35646.09,28199.57,7446.52,Individual,Cash
+193,2025-09-03,West,Electronics,Headphones,17,2083.44,35418.48,23830.62,11587.86,Individual,Card
+194,2025-08-27,West,Clothing,T-Shirt,17,1755.35,29840.95,24272.27,5568.68,Individual,Card
+195,2025-03-05,North,Grocery,Cooking Oil,17,807.43,13726.31,8227.51,5498.8,Business,Card
+196,2025-02-10,East,Clothing,Shirt,9,1021.69,9195.21,7695.52,1499.69,Business,Card
+197,2025-09-15,North,Clothing,Shirt,6,2979.45,17876.7,12946.2,4930.5,Individual,UPI
+198,2025-02-11,North,Stationery,Notebook,2,4745.31,9490.62,7415.09,2075.53,Business,Card
+199,2025-09-12,North,Stationery,File,18,1483.87,26709.66,22355.85,4353.81,Business,Card
+200,2025-02-07,West,Grocery,Tea,2,832.5,1665,1123.35,541.65,Business,Card
+201,2025-06-10,South,Clothing,Shirt,11,3684.29,40527.19,32755.42,7771.77,Business,Card
+202,2025-06-13,North,Clothing,Shirt,8,2359.04,18872.32,11894.12,6978.2,Individual,Card
+203,2025-07-16,East,Electronics,Laptop,20,2119.77,42395.4,35561.51,6833.89,Individual,UPI
+204,2025-03-23,South,Stationery,Marker,16,4980.05,79680.8,54983.3,24697.5,Business,Bank Transfer
+205,2025-09-16,West,Electronics,Laptop,15,4835.1,72526.5,44570.68,27955.82,Business,Cash
+206,2025-11-02,West,Electronics,Headphones,16,1464.45,23431.2,12944.64,10486.56,Individual,Bank Transfer
+207,2025-07-26,East,Furniture,Bookshelf,12,273.95,3287.4,1858.52,1428.88,Individual,UPI
+208,2025-07-17,North,Stationery,Marker,17,2279.25,38747.25,27702.62,11044.63,Individual,Card
+209,2025-06-23,East,Electronics,Keyboard,18,4697.8,84560.4,65660.27,18900.13,Individual,Bank Transfer
+210,2025-01-20,North,Stationery,Notebook,5,3582.28,17911.4,14171.32,3740.08,Business,Card
+211,2025-06-17,South,Stationery,Stapler,20,1626.72,32534.4,21729.28,10805.12,Business,UPI
+212,2025-12-29,West,Stationery,Stapler,19,1533.96,29145.24,23162.44,5982.8,Business,UPI
+213,2025-12-19,East,Electronics,Keyboard,1,3004.7,3004.7,1891.94,1112.76,Individual,Cash
+214,2025-09-26,South,Stationery,File,20,3884.3,77686,51587.94,26098.06,Individual,Cash
+215,2025-01-10,South,Stationery,Notebook,15,1602.78,24041.7,14315.13,9726.57,Individual,Bank Transfer
+216,2025-02-01,West,Stationery,Stapler,5,2617.48,13087.4,9400.23,3687.17,Business,Bank Transfer
+217,2025-09-30,West,Clothing,Jeans,11,2754.05,30294.55,22804.54,7490.01,Business,Bank Transfer
+218,2025-10-13,East,Furniture,Desk,10,1163.09,11630.9,9791.74,1839.16,Business,UPI
+219,2025-09-03,East,Furniture,Table,12,2824.41,33892.92,28142.84,5750.08,Business,UPI
+220,2025-07-22,West,Electronics,Monitor,12,4775.31,57303.72,45349.29,11954.43,Business,Cash
+221,2025-08-15,East,Clothing,T-Shirt,9,3749.33,33743.97,20725.41,13018.56,Business,UPI
+222,2025-05-05,South,Furniture,Office Chair,2,3365.68,6731.36,4774.64,1956.72,Individual,Cash
+223,2025-08-30,East,Electronics,Keyboard,4,3421.9,13687.6,8092.66,5594.94,Individual,Bank Transfer
+224,2025-05-28,South,Grocery,Sugar,11,1462.81,16090.91,9135.59,6955.32,Individual,Card
+225,2025-08-02,South,Stationery,Notebook,6,4672.92,28037.52,15726.3,12311.22,Business,Bank Transfer
+226,2025-01-05,North,Furniture,Bookshelf,10,2861.41,28614.1,16658.85,11955.25,Business,UPI
+227,2025-03-10,West,Grocery,Cooking Oil,17,2366.7,40233.9,24455.91,15777.99,Individual,UPI
+228,2025-04-06,East,Furniture,Table,1,3696.26,3696.26,2909.81,786.45,Individual,Card
+229,2025-09-21,West,Stationery,File,11,479.35,5272.85,3958.73,1314.12,Individual,Card
+230,2025-01-04,South,Grocery,Tea,9,1948.69,17538.21,11996.5,5541.71,Business,UPI
+231,2025-05-14,North,Clothing,Shirt,12,3479.2,41750.4,23740.83,18009.57,Individual,Bank Transfer
+232,2025-12-18,West,Clothing,Jeans,17,4619.37,78529.29,64106.63,14422.66,Business,Cash
+233,2025-04-23,South,Clothing,Jacket,5,2417,12085,8296.28,3788.72,Business,Bank Transfer
+234,2025-05-07,South,Stationery,File,20,4372.02,87440.4,50239.85,37200.55,Business,UPI
+235,2025-02-01,North,Electronics,Monitor,18,4519.3,81347.4,49674.55,31672.85,Individual,Card
+236,2025-03-01,West,Clothing,Shirt,7,3598.74,25191.18,17549.39,7641.79,Business,Cash
+237,2025-08-22,West,Grocery,Coffee,19,335.8,6380.2,4394.13,1986.07,Business,Cash
+238,2025-04-22,North,Grocery,Tea,19,411.5,7818.5,5293.98,2524.52,Individual,Cash
+239,2025-05-27,North,Electronics,Keyboard,14,940.91,13172.74,7780.2,5392.54,Business,UPI
+240,2025-07-12,West,Grocery,Sugar,3,3429.52,10288.56,7701.38,2587.18,Individual,UPI
+241,2025-09-28,West,Electronics,Smartphone,5,3652.9,18264.5,11265.67,6998.83,Individual,Cash
+242,2025-09-30,West,Clothing,Shoes,13,4125.63,53633.19,33480.71,20152.48,Business,Card
+243,2025-01-17,North,Clothing,Jeans,14,3093.87,43314.18,35988.51,7325.67,Individual,Card
+244,2025-11-01,North,Furniture,Office Chair,2,2259.88,4519.76,3397.08,1122.68,Individual,Card
+245,2025-04-30,West,Electronics,Keyboard,18,1125.48,20258.64,16391.65,3866.99,Individual,Card
+246,2025-10-22,South,Stationery,Marker,11,2908.5,31993.5,25011.29,6982.21,Business,Card
+247,2025-07-31,South,Clothing,Jeans,10,1412.01,14120.1,10124.33,3995.77,Individual,Bank Transfer
+248,2025-06-26,North,Stationery,File,13,3939.73,51216.49,33066.41,18150.08,Business,Bank Transfer
+249,2025-04-05,West,Furniture,Bookshelf,18,2393.92,43090.56,34679.38,8411.18,Business,Card
+250,2025-08-02,West,Grocery,Rice,18,2673.46,48122.28,32074.74,16047.54,Business,Card
