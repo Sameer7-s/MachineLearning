@@ -1,0 +1,256 @@
+Student_ID,Name,Age,Gender,Department,Semester,Attendance_Percentage,Internal_Marks,CGPA,City,Scholarship
+STU001,Arjun Sharma,,Female,Data Science,4,97.8,42,7.79,Mangaluru,Yes
+STU002,Arjun Shetty,24,Female,ISE,2,62,21.7,9.26,Chennai,Yes
+STU003,Aarav Reddy,21,Male,CSE,8,86.9,20.6,9.83,Mangaluru,No
+STU004,Rahul Nair,21,Female,CSE,6,64.6,25.5,5.51,Hubballi,No
+STU005,Ananya Singh,21,Male,EEE,2,78.6,33,6.1,Mysuru,Yes
+STU006,Aadhya Reddy,20,Male,EEE,7,61.3,,6.51,Tumakuru,Yes
+STU007,Kavya Iyer,23,Male,Mechanical,6,90.3,26,7.33,Mysuru,
+STU008,Riya Naidu,25,Female,Data Science,1,57.1,38.2,,Mysuru,Yes
+STU009,Rahul Joshi,24,Male,ISE,2,97.7,49,8.95,Mangaluru,Yes
+STU010,Aadhya Singh,18,Male,EEE,2,59.4,40.5,6.92,,No
+STU011,Diya Patel,24,Female,ISE,4,77.3,21,9.5,Hubballi,Yes
+STU012,Sai Nair,21,Male,Data Science,2,84.8,29.4,7.36,Belagavi,Yes
+STU013,Rahul Kulkarni,19,Male,EEE,4,63.3,49.1,8.76,Chennai,No
+STU014,Aditya Patel,19,Female,EEE,2,95.3,37.9,9.57,Mangaluru,No
+STU015,Aadhya Naidu,25,Female,Civil,6,63.8,21.4,6.29,Hubballi,No
+STU016,Vihaan Patel,25,Female,ECE,5,67.2,44.9,6.46,Chennai,No
+STU017,Diya Patel,21,Other,AIML,4,79.4,24.2,8.91,Hyderabad,Yes
+STU018,Vivaan Kulkarni,18,Male,AIML,1,99.4,43.2,5.59,Chennai,Yes
+STU019,Aadhya Gupta,25,Female,Civil,7,91.7,41.2,8.51,Tumakuru,Yes
+STU020,Arjun Shetty,18,Female,ECE,3,58.3,30.8,5.14,Belagavi,Yes
+STU021,Manish Gupta,24,Male,CSE,1,83,29.9,4.85,Tumakuru,Yes
+STU022,Pooja Naidu,24,Male,ECE,6,69.6,41.9,8.01,Mangaluru,
+STU023,Diya Joshi,20,Male,CSE,3,76.2,23.6,8.42,Belagavi,No
+STU024,Aarav Reddy,18,Female,,5,80.3,43.1,7.22,,
+STU025,Rahul Naidu,18,Female,ISE,7,,20.8,5.09,Mysuru,No
+STU026,Aditya Joshi,24,Female,AIML,8,83.6,29.4,7.3,Hubballi,No
+STU027,Nisha Kumar,23,Male,,5,66.2,32.3,8.66,Mangaluru,Yes
+STU028,Manish Gupta,21,Other,EEE,5,,28.7,5.39,Hyderabad,No
+STU029,Arjun Patel,19,Male,EEE,2,,39,9.29,Bengaluru,Yes
+STU030,Meera Patel,21,Male,CSE,4,63.4,46.8,7.47,Mangaluru,Yes
+STU031,Vivaan Kulkarni,19,Male,Data Science,7,95.3,29.5,5.11,,
+STU032,Rohan Iyer,18,Male,Civil,3,74.2,44.5,9.23,Mangaluru,No
+STU033,Sneha Patel,24,Male,Mechanical,6,78,32.5,5.72,Belagavi,No
+STU034,Sneha Nair,20,,CSE,2,70.2,48.3,,Mysuru,Yes
+STU035,Aadhya Verma,25,Male,ISE,8,86.6,,9.84,Mangaluru,Yes
+STU036,Rohan Iyer,21,Male,Mechanical,4,66.3,34.9,6.15,Hubballi,No
+STU037,Kavya Patel,18,Female,ISE,8,56.7,,7.26,Hyderabad,Yes
+STU038,Vivaan Shetty,23,Other,CSE,7,67.5,47.2,5.82,Mysuru,Yes
+STU039,Sai Gupta,19,Female,Data Science,5,77,49.6,5.83,Chennai,Yes
+STU040,Sai Gupta,21,Male,Mechanical,7,89.3,27.1,,Tumakuru,No
+STU041,Manish Gupta,25,Female,Civil,5,83.5,39,7.45,Hubballi,Yes
+STU042,Manish Patel,25,Female,CSE,8,92.6,29.6,5.53,Belagavi,
+STU043,Vivaan Das,22,Male,AIML,3,,40.3,4.59,Bengaluru,Yes
+STU044,Sai Reddy,,Female,Data Science,7,65.2,39.4,5.46,Chennai,
+STU045,Meera Patel,18,Female,CSE,8,72.4,48.1,5.26,Mysuru,No
+STU046,Meera Das,21,Female,ECE,1,60.1,,9.33,Mangaluru,No
+STU047,Rahul Singh,20,Male,ECE,7,84.7,,7.55,Hyderabad,No
+STU048,Aditya Sharma,21,Male,ISE,1,65.9,22.8,9.43,Mysuru,Yes
+STU049,Pooja Singh,22,Male,EEE,8,83.5,30.2,6.42,Mysuru,Yes
+STU050,Diya Singh,25,Male,ECE,8,95.4,46.6,8.79,Bengaluru,No
+STU051,Arjun Naidu,25,Male,,4,,24.8,9.44,Mysuru,Yes
+STU052,Kiran Singh,21,Female,EEE,6,55.4,23,,Mangaluru,No
+STU053,Pooja Nair,,Male,CSE,2,62.2,,,Mysuru,No
+STU054,Kiran Sharma,25,Male,AIML,5,65.1,41.4,5.8,Tumakuru,Yes
+STU055,Kavya Iyer,22,Female,CSE,8,88.6,39.5,9.17,Mysuru,Yes
+STU056,Vihaan Iyer,18,,EEE,8,80.6,22.8,6.52,Hubballi,No
+STU057,Vihaan Sharma,24,,CSE,6,,49.2,6.66,Belagavi,
+STU058,Rahul Shetty,23,Male,Mechanical,8,83.4,43.8,7.26,Hubballi,Yes
+STU059,Sai Joshi,21,Female,Mechanical,7,,25.9,8.47,Bengaluru,Yes
+STU060,Ananya Joshi,20,Female,Data Science,4,56.1,39.4,5.47,Tumakuru,Yes
+STU061,Arjun Gupta,21,Female,Civil,6,,,6.54,Mangaluru,Yes
+STU062,Kavya Rao,18,Male,Data Science,5,96.8,32.8,,Mangaluru,Yes
+STU063,Rohan Gupta,20,Male,ISE,4,93.4,28.8,6.62,Tumakuru,No
+STU064,Pooja Gupta,24,Female,EEE,1,69.3,25.1,7.56,,Yes
+STU065,Kiran Kumar,24,Female,ECE,6,86.3,37.1,5.03,Bengaluru,Yes
+STU066,Riya Gupta,25,Male,EEE,7,,24.2,7.35,Chennai,Yes
+STU067,Aadhya Naidu,19,Female,ECE,2,88.3,40.9,8.36,Bengaluru,No
+STU068,Aarav Iyer,25,Female,Data Science,7,68.2,44.3,8.96,Belagavi,No
+STU069,Aditya Shetty,18,Female,EEE,8,96.1,35.3,7.26,Mysuru,No
+STU070,Pooja Singh,22,Female,EEE,4,84.2,41.1,8.88,Chennai,No
+STU071,Nisha Kumar,21,Male,,3,70.2,31.3,5.02,Hubballi,No
+STU072,Aadhya Iyer,24,Female,ECE,7,56.6,34,7.48,Tumakuru,Yes
+STU073,Sneha Joshi,22,,EEE,6,81.6,20.9,4.71,Hyderabad,No
+STU074,Kavya Shetty,23,Male,Civil,7,71.2,23.8,7.37,Hubballi,Yes
+STU075,Manish Iyer,22,Female,EEE,4,64.7,38.7,4.97,Mysuru,
+STU076,Manish Patel,22,Female,AIML,8,,36.2,8.01,Bengaluru,Yes
+STU077,Rahul Nair,21,Female,ISE,8,98.9,35.5,6.28,Hyderabad,No
+STU078,Meera Patel,,Female,Mechanical,8,67.2,33.2,4.93,Hyderabad,No
+STU079,Rahul Kumar,22,Female,CSE,2,,45.1,8.33,Mysuru,
+STU080,Rahul Kumar,22,Female,Civil,1,62.8,24.7,5.88,Bengaluru,Yes
+STU081,Arjun Nair,23,Male,Civil,6,87.2,,6.04,Belagavi,No
+STU082,Riya Kulkarni,25,Female,Mechanical,5,88.2,36.6,7.86,Hyderabad,Yes
+STU083,Priya Nair,24,,Data Science,3,66.1,30.7,8.67,Tumakuru,No
+STU084,Rahul Singh,18,Male,ECE,5,60.2,21.4,4.72,Mangaluru,No
+STU085,Ananya Rao,23,Female,ISE,6,86.7,34.2,5.04,Hubballi,Yes
+STU086,Rahul Gupta,25,Female,Data Science,5,76.3,25.2,6.89,Mysuru,No
+STU087,Sneha Rao,24,,Mechanical,2,82.7,39.1,4.75,Bengaluru,Yes
+STU088,Sneha Gupta,24,Female,,2,83.2,35.1,9.21,Chennai,No
+STU089,Aarav Rao,22,Male,Mechanical,5,62.3,22.1,8.03,Chennai,Yes
+STU090,Priya Patel,18,Male,Civil,4,81.4,48.2,7.67,Bengaluru,No
+STU091,Ananya Shetty,19,Female,Mechanical,3,83.9,33.7,7.5,,No
+STU092,Vihaan Das,22,Female,,4,72.4,48.8,,Bengaluru,Yes
+STU093,Sneha Kumar,21,Female,AIML,5,58.1,23,4.6,Bengaluru,No
+STU094,Aadhya Rao,20,Male,EEE,2,85.7,22.1,6.25,Belagavi,No
+STU095,Kiran Joshi,19,Female,Mechanical,2,56,,6.05,Tumakuru,Yes
+STU096,Priya Sharma,21,Female,CSE,2,86.4,38.9,,Belagavi,Yes
+STU097,Aditya Joshi,21,Female,CSE,1,91.2,28.5,5.48,Bengaluru,Yes
+STU098,Rohan Kulkarni,18,Male,AIML,8,91.3,,6.77,Mangaluru,Yes
+STU099,Priya Shetty,19,Male,Data Science,1,89.9,30.2,9.62,Hyderabad,No
+STU100,Diya Kumar,22,Female,ISE,4,74.3,42.5,8.65,,No
+STU101,Arjun Das,,Male,ECE,6,95.6,35.2,9.05,Chennai,No
+STU102,Rohan Reddy,,Female,Data Science,5,95.3,31.7,,Mysuru,
+STU103,Riya Joshi,18,Male,CSE,3,59.1,29.6,9.73,Belagavi,No
+STU104,Diya Reddy,25,Female,EEE,4,80.8,39,6.97,Bengaluru,
+STU105,Priya Reddy,20,Male,EEE,4,69.8,40.2,,Hyderabad,Yes
+STU106,Sneha Kumar,,Female,,8,90.5,22.7,7.22,Hyderabad,No
+STU107,Sneha Kulkarni,24,Female,ECE,6,79.7,33.2,9.38,Belagavi,Yes
+STU108,Aditya Singh,20,Female,Data Science,3,60.3,,8.69,Hyderabad,No
+STU109,Ananya Sharma,21,Female,,1,59.6,22.5,8.36,Hubballi,No
+STU110,Rohan Rao,19,Female,EEE,1,92,41.2,4.95,Tumakuru,No
+STU111,Nisha Sharma,22,Female,Data Science,6,99.4,31.2,6.54,Mysuru,Yes
+STU112,Sneha Nair,21,Female,Data Science,1,97.6,49.6,8.64,Hyderabad,No
+STU113,Kavya Joshi,23,Male,ECE,4,58.8,43.3,7.57,Mangaluru,No
+STU114,Rahul Singh,20,Female,EEE,2,95.8,23.3,7.21,Hyderabad,No
+STU115,Sneha Verma,22,Female,EEE,2,76.1,21.7,5.15,Hyderabad,No
+STU116,Manish Singh,22,Male,Data Science,7,84.2,42.4,7.71,Belagavi,Yes
+STU117,Nisha Joshi,23,Female,Data Science,1,71.9,28.6,9.28,Mangaluru,No
+STU118,Kiran Verma,23,Female,ECE,5,98.3,20.4,9.83,Mysuru,Yes
+STU119,Manish Patel,22,Male,ECE,7,95.1,35.8,9.96,Bengaluru,Yes
+STU120,Kiran Sharma,22,Female,ECE,4,79.9,49.1,7.38,Hubballi,No
+STU121,Arjun Kulkarni,18,Male,ECE,1,86.3,33.6,7.95,Hyderabad,No
+STU122,Kavya Rao,23,Male,CSE,3,95.6,21.4,,Tumakuru,No
+STU123,Arjun Kulkarni,25,,Civil,8,95.1,33.7,7.91,Mysuru,Yes
+STU124,Vihaan Kumar,25,Female,ECE,2,63.5,33.9,6.44,Mysuru,Yes
+STU125,Arjun Iyer,19,Female,Data Science,4,58.5,49.2,9.92,Chennai,No
+STU126,Kavya Singh,23,Female,Mechanical,7,79.1,29.3,,Tumakuru,Yes
+STU127,Riya Verma,21,Male,Data Science,8,62.3,47.3,9.02,Mangaluru,No
+STU128,Aditya Kumar,19,Male,ISE,3,87.7,38.4,6.8,Hubballi,Yes
+STU129,Sneha Nair,25,Female,Civil,6,94,21.4,4.65,Tumakuru,Yes
+STU130,Rahul Singh,,Female,Civil,6,91.5,49.6,5.33,Mysuru,Yes
+STU131,Kiran Joshi,22,Female,Data Science,2,72.1,49.1,9.13,Chennai,Yes
+STU132,Nisha Patel,22,Female,ECE,1,76.1,32.4,6,Hubballi,Yes
+STU133,Vivaan Kumar,25,Female,ECE,7,93.9,44.4,10,Hyderabad,Yes
+STU134,Kavya Verma,23,Male,Mechanical,3,80,43.1,9.7,,No
+STU135,Kavya Reddy,19,Female,Mechanical,3,66.1,33.5,5.21,Belagavi,No
+STU136,Aarav Reddy,,Male,CSE,5,82.3,26.9,8.19,Tumakuru,Yes
+STU137,Sai Nair,25,Female,Civil,2,71.1,23.4,8.19,Tumakuru,Yes
+STU138,Meera Gupta,19,Female,Civil,6,89.8,35.6,9.19,Mysuru,No
+STU139,Diya Gupta,23,Male,ISE,4,,46.3,6.72,Hubballi,No
+STU140,Sneha Verma,25,Female,Mechanical,7,,42.7,7.91,Bengaluru,
+STU141,Aditya Rao,19,Male,ISE,3,64.6,24.1,4.58,Chennai,Yes
+STU142,Nisha Nair,23,Male,,2,81.5,31.8,6.91,Belagavi,No
+STU143,Kavya Joshi,24,Male,ECE,2,70.7,35.4,8.81,Hubballi,No
+STU144,Kavya Naidu,21,Female,ISE,6,83,45.9,9.72,Bengaluru,Yes
+STU145,Sai Singh,21,Female,Mechanical,2,96.7,34.8,5.92,Mysuru,Yes
+STU146,Arjun Nair,25,Female,AIML,5,99.1,34.8,6.31,Hyderabad,No
+STU147,Pooja Verma,20,Male,Civil,3,65.8,22.3,5.21,Hyderabad,Yes
+STU148,Kavya Iyer,24,Male,Data Science,8,61.8,24.2,8.02,,Yes
+STU149,Kiran Joshi,25,Female,Mechanical,4,70.6,46.9,7.11,Belagavi,No
+STU150,Aarav Singh,22,Female,Civil,8,62.8,25.8,4.72,Hubballi,No
+STU151,Nisha Nair,22,Male,Mechanical,2,67.5,25.3,4.99,Hyderabad,No
+STU152,Rohan Verma,18,Male,Mechanical,5,75.7,26.2,6.5,Mangaluru,No
+STU153,Vivaan Rao,23,Female,Mechanical,2,86.1,21.2,8.9,Chennai,Yes
+STU154,Priya Sharma,18,Male,EEE,6,58.7,46.2,9.56,Mysuru,No
+STU155,Arjun Iyer,22,Female,CSE,1,67.5,44.2,8.62,Hubballi,No
+STU156,Vihaan Reddy,22,Male,ECE,4,64.4,31.1,7.16,Belagavi,
+STU157,Aditya Kulkarni,19,Male,Mechanical,4,71.6,33.9,8.61,Belagavi,No
+STU158,Nisha Sharma,23,Female,Data Science,3,66.4,41.4,9.42,Tumakuru,Yes
+STU159,Aditya Gupta,23,Female,ISE,3,78.9,23.2,6.96,Hyderabad,Yes
+STU160,Manish Naidu,20,Male,EEE,3,65.9,28.1,6.58,Bengaluru,No
+STU161,Diya Rao,19,Male,Data Science,7,69.5,26.3,6.3,Chennai,Yes
+STU162,Sai Kumar,21,Male,Mechanical,1,95.1,37.8,8.24,Mangaluru,No
+STU163,Meera Kumar,20,Male,ECE,1,77.4,22.6,7.45,,No
+STU164,Aarav Naidu,19,Female,ECE,7,88.5,32.9,5.2,Hubballi,Yes
+STU165,Kavya Rao,18,Other,ECE,5,71.3,39.4,7.64,Chennai,No
+STU166,Kavya Kulkarni,25,Male,Mechanical,3,99.4,38.2,5.8,Hyderabad,Yes
+STU167,Rahul Gupta,23,Female,ECE,5,61.9,27.4,5.38,Tumakuru,Yes
+STU168,Aadhya Singh,20,Male,CSE,6,67.8,25.2,9.43,Hyderabad,No
+STU169,Rahul Das,24,Female,Data Science,3,78.6,32.3,9.9,Mangaluru,No
+STU170,Vihaan Shetty,24,Male,CSE,6,72.9,49.1,9.26,Tumakuru,No
+STU171,Vivaan Das,23,Male,AIML,6,66.6,,8.18,Mysuru,No
+STU172,Ananya Verma,18,Male,Data Science,2,80.1,37.1,6.04,Hubballi,No
+STU173,Pooja Iyer,,Female,AIML,5,63.4,29.7,6.84,Tumakuru,No
+STU174,Manish Verma,18,Female,ISE,4,65.9,23.4,7.86,Hyderabad,Yes
+STU175,Vihaan Joshi,25,Female,Mechanical,6,81.2,24.6,7.15,Belagavi,Yes
+STU176,Aadhya Sharma,20,Male,,3,57.3,30.1,5.24,Hyderabad,No
+STU177,Kiran Das,24,Male,EEE,2,99.5,29.7,8.95,Mysuru,Yes
+STU178,Priya Sharma,18,Female,EEE,7,85.7,42.8,7.78,Mangaluru,Yes
+STU179,Kavya Naidu,25,Female,Mechanical,6,73.5,30.5,9.61,Mysuru,Yes
+STU180,Vivaan Sharma,23,Male,Civil,4,98.4,23.7,8.52,Mysuru,Yes
+STU181,Rahul Naidu,18,Female,Mechanical,2,63.2,22,8.58,Hyderabad,No
+STU182,Nisha Gupta,23,Female,AIML,4,,24.2,8.87,Chennai,Yes
+STU183,Priya Das,23,Male,ECE,4,62.4,,8.98,Bengaluru,No
+STU184,Rohan Nair,,,Data Science,6,78.5,30.8,9.32,Belagavi,Yes
+STU185,Diya Iyer,18,Female,EEE,2,91.7,33.2,6.57,Bengaluru,No
+STU186,Kiran Patel,20,Female,Civil,5,68.6,42.4,7.26,Mysuru,Yes
+STU187,Riya Sharma,18,Male,,1,95.5,,7.49,Mangaluru,Yes
+STU188,Meera Patel,25,Male,Data Science,8,83.1,23.5,9.67,Mangaluru,Yes
+STU189,Ananya Joshi,24,Male,CSE,3,70.1,24.2,8.87,,Yes
+STU190,Vihaan Iyer,22,Male,AIML,1,79,46.8,8.84,Mysuru,Yes
+STU191,Vihaan Sharma,23,Male,Data Science,1,69,27.5,8.59,Belagavi,Yes
+STU192,Sai Singh,23,Male,Mechanical,4,80.6,42.9,9.32,Mysuru,Yes
+STU193,Priya Nair,18,Female,ISE,6,92,23.3,9.16,Hyderabad,Yes
+STU194,Riya Sharma,25,Female,ECE,4,72.9,,5.32,Hyderabad,Yes
+STU195,Vivaan Nair,24,Female,Mechanical,4,87.5,41.6,8.03,Mysuru,No
+STU196,Kavya Reddy,20,Female,EEE,4,79.4,27.6,6.4,Hubballi,Yes
+STU197,Vihaan Singh,20,Female,EEE,6,95.9,,6.7,Chennai,No
+STU198,Kavya Iyer,24,Female,ISE,2,97.6,24.6,,Mysuru,Yes
+STU199,Sneha Nair,23,Female,Mechanical,2,,20.5,9.3,Belagavi,No
+STU200,Aadhya Gupta,21,Female,EEE,4,,40.9,9.57,Chennai,No
+STU201,Kiran Rao,25,Female,Civil,7,61.9,37.3,7.84,Mysuru,Yes
+STU202,Aditya Reddy,23,Male,,3,88.1,48,9.59,Hubballi,Yes
+STU203,Meera Iyer,24,Female,ISE,1,60.1,49.5,9.11,Chennai,No
+STU204,Sneha Kulkarni,23,Female,CSE,7,96.4,46.1,7.35,Tumakuru,No
+STU205,Diya Reddy,25,Female,Data Science,7,73,21.6,6.34,Hubballi,
+STU206,Rahul Kulkarni,21,Male,EEE,1,55.2,30,6.69,Mysuru,No
+STU207,Meera Patel,18,Female,CSE,2,96.4,30.4,6.41,Tumakuru,Yes
+STU208,Sai Singh,19,Female,ECE,3,75.3,26.7,6.99,Belagavi,No
+STU209,Aarav Kumar,20,Female,Mechanical,6,62.9,35,6.8,Mysuru,Yes
+STU210,Aarav Reddy,25,Female,Data Science,1,,37.4,7.98,Chennai,No
+STU211,Kavya Rao,21,Male,ECE,2,84.9,25.3,9.79,Belagavi,Yes
+STU212,Vivaan Kumar,18,Male,CSE,4,,22.6,9.98,Mysuru,No
+STU213,Kavya Shetty,18,Male,Civil,7,81.8,22,8.62,,No
+STU214,Rohan Joshi,20,Female,EEE,8,95.4,26.2,5.55,Chennai,Yes
+STU215,Manish Shetty,22,Female,Civil,5,76.2,36.9,4.86,Tumakuru,Yes
+STU216,Rahul Gupta,23,Other,CSE,3,75.4,35.7,6.92,Bengaluru,Yes
+STU217,Manish Patel,19,,ECE,6,80.2,,5.5,Tumakuru,No
+STU218,Arjun Sharma,22,Female,Mechanical,7,97.6,31.2,5.99,Hubballi,Yes
+STU219,Aadhya Iyer,23,Female,EEE,2,73.4,20.8,5.36,Mysuru,No
+STU220,Vivaan Gupta,19,Male,,7,84.7,20.8,5.72,Belagavi,No
+STU221,Meera Gupta,25,Female,,7,85.2,20.6,5.07,Tumakuru,Yes
+STU222,Aadhya Sharma,24,Female,AIML,5,63,39.6,5.81,Hyderabad,No
+STU223,Aditya Gupta,19,Female,Data Science,3,65.9,41.7,9.21,Chennai,No
+STU224,Pooja Reddy,20,Male,ECE,8,72.9,40,5.63,Belagavi,Yes
+STU225,Ananya Joshi,24,Male,ISE,7,95.3,20.4,4.97,Mangaluru,No
+STU226,Diya Verma,24,Female,AIML,5,56.2,25.4,7.71,Mangaluru,Yes
+STU227,Vihaan Singh,21,Male,AIML,2,95.2,44.5,,Mysuru,Yes
+STU228,Priya Nair,19,Female,Civil,7,72.1,37.7,5.97,Belagavi,No
+STU229,Vihaan Nair,22,Male,Civil,5,,36.6,6.9,Tumakuru,No
+STU230,Meera Sharma,21,Male,ISE,3,97.7,42.9,5.27,Tumakuru,No
+STU231,Kavya Sharma,19,Male,ECE,6,76.9,46.8,8.9,Mysuru,
+STU232,Riya Das,18,Female,Civil,2,56,28.1,7.48,Bengaluru,No
+STU233,Meera Shetty,22,Male,Civil,1,,24.2,9.09,Hubballi,Yes
+STU234,Kavya Reddy,21,Female,EEE,2,78.7,25.2,6,Mysuru,Yes
+STU235,Vivaan Patel,20,Female,Civil,6,96.1,23.5,7.67,Hubballi,No
+STU236,Diya Naidu,23,,Mechanical,2,79.9,39.5,9.06,Belagavi,Yes
+STU237,Ananya Reddy,24,Male,Mechanical,5,55.5,24.1,9.45,Tumakuru,No
+STU238,Riya Kulkarni,23,Male,ISE,3,81.9,38,8.16,Hubballi,No
+STU239,Manish Shetty,24,Female,Mechanical,2,96.1,32.6,6.61,Hubballi,Yes
+STU240,Manish Iyer,19,Male,EEE,6,57.1,25,8.56,Hubballi,Yes
+STU241,Sneha Iyer,20,Male,EEE,5,82.1,27.4,6.64,Tumakuru,Yes
+STU242,Rohan Rao,25,Female,Civil,3,71,41.6,6.13,Mangaluru,Yes
+STU243,Vihaan Kumar,20,Male,ISE,6,76.4,39.9,9.65,Bengaluru,No
+STU244,Riya Kumar,,Female,AIML,8,64.7,20.9,5.94,Hubballi,Yes
+STU245,Riya Joshi,20,Female,Civil,4,57.3,34.9,7.78,Bengaluru,No
+STU246,Diya Shetty,19,Female,Civil,1,89.7,23.2,4.91,Tumakuru,No
+STU247,Rahul Iyer,18,Male,Civil,1,77.3,,6.89,Mangaluru,No
+STU248,Meera Nair,24,Male,ECE,3,91.9,44,8.32,Chennai,No
+STU249,Sai Kulkarni,23,Male,AIML,6,81.6,30.8,,Tumakuru,Yes
+STU250,Priya Kulkarni,20,Male,ISE,1,61.2,48.5,,,No
+STU149,Kiran Joshi,25,Female,Mechanical,4,70.6,46.9,7.11,Belagavi,No
+STU220,Vivaan Gupta,19,Male,,7,84.7,20.8,5.72,Belagavi,No
+STU095,Kiran Joshi,19,Female,Mechanical,2,56,,6.05,Tumakuru,Yes
+STU085,Ananya Rao,23,Female,ISE,6,86.7,34.2,5.04,Hubballi,Yes
+STU004,Rahul Nair,21,Female,CSE,6,64.6,25.5,5.51,Hubballi,No
