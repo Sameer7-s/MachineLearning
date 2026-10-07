@@ -1,53 +1,89 @@
-<div align="center">
+# Machine Learning
 
-# 📘 Machine Learning
+My hands-on journey into Machine Learning, Python, and Data Analysis.
 
-### My hands-on journey into Machine Learning, Python, and data analysis
+Learning -> Practicing -> Experimenting -> Building
 
-**Learn • Practice • Experiment • Improve**
+## About
 
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
-[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?logo=jupyter&logoColor=white)](https://jupyter.org/)
-[![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)](https://numpy.org/)
-[![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C)](https://matplotlib.org/)
+This repository is my Machine Learning learning laboratory. It contains notebooks, datasets, visualizations, preprocessing practice, and small projects created while building my foundation in data science and machine learning.
 
-</div>
+The goal of this repository is to show steady learning progress, not to act as one final polished portfolio project. Larger production-style ML projects should live in separate repositories.
 
----
+## Repository Structure
 
-## 👋 About This Repository
+```text
+MachineLearning/
+|-- 01_Python_Basics/
+|-- 02_NumPy/
+|-- 03_Pandas/
+|-- 04_Data_Visualization/
+|   |-- Matplotlib/
+|   `-- Seaborn/
+|-- 05_Data_Preprocessing_and_Statistics/
+|-- 06_Practice_Projects/
+|-- datasets/
+|-- assets/
+|-- README.md
+`-- .gitignore
+```
 
-Welcome to my **MachineLearning** repository! This is my personal learning space for building a foundation in machine learning and data science.
+## Learning Roadmap
 
-Here, I document concepts, write Python code, practice with popular data libraries, and explore ideas through Jupyter Notebooks. The repository will grow as I learn and complete more exercises.
+| Phase | Topic | Status |
+|---|---|---|
+| 1 | Python basics and Jupyter notebooks | In progress |
+| 2 | NumPy arrays and numerical operations | In progress |
+| 3 | Pandas data analysis | In progress |
+| 4 | Matplotlib and Seaborn visualization | In progress |
+| 5 | Data cleaning and preprocessing | In progress |
+| 6 | Statistics and feature engineering | Started |
+| 7 | Regression models | Next |
+| 8 | Classification models | Planned |
+| 9 | Clustering and PCA | Planned |
+| 10 | Model evaluation | Planned |
+| 11 | End-to-end ML projects | Planned |
 
-## 🧭 Learning Roadmap
+## Topics Covered
 
-| Area | What I'm practicing |
-|---|---|
-| **Python & Jupyter** | Writing code and experimenting in notebooks |
-| **NumPy** | Arrays, numerical operations, and working with data |
-| **Pandas** | DataFrames, data selection, and data manipulation |
-| **Matplotlib** | Creating charts and visualizing data |
-| **Machine Learning** | Understanding foundational concepts and applying them through practice |
+- Python practice
+- NumPy arrays and exercises
+- Pandas Series and DataFrames
+- CSV loading and analysis
+- Selecting, filtering, sorting, and grouping data
+- Data cleaning and duplicate handling
+- Outlier detection with boxplots
+- Feature scaling basics
+- Matplotlib visualization
+- Seaborn distribution, categorical, matrix, and regression plots
+- Plotly and Cufflinks introduction
+- Practice projects with real-world datasets
 
-## 📂 Repository Contents
+## Tools And Technologies
 
-The repository currently includes introductory notebooks and practice folders related to:
+- Python
+- Jupyter Notebook
+- NumPy
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- Scikit-learn
+- SciPy
 
-- Introduction to Machine Learning
-- NumPy exercises
-- Pandas practice
-- Matplotlib examples
-- Jupyter Notebook experiments
+## Practice Projects
 
-> The folder structure and learning materials may change as I organize and expand the repository.
+- Pandas real-world data analysis
+- IPL data visualization capstone
+- Insurance dataset cleaning, preprocessing, and feature engineering
 
-## ⚙️ Getting Started
+## Current Learning
 
-### 1. Clone the repository
+I am currently strengthening data preprocessing, statistics, feature engineering, and the foundations needed before building regression and classification models.
 
-```bash
-git clone https://github.com/Sameer7-s/MachineLearning.git
-cd MachineLearning
+## Future Goals
+
+- Learn regression and classification properly
+- Practice model evaluation metrics
+- Build separate portfolio repositories for serious ML projects
+- Keep this repository as a clean record of my learning journey
